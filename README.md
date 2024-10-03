@@ -17,7 +17,7 @@ Pengguna `quran-epub` janganlah menjadikan berkas EPUB yang dihasilkannya sebaga
 - Pasang `awk` dan `pandoc`. Misal untuk sistem berdasar Debian bisa menggunakan perintah berikut:
 
   ```bash
-  sudo apt install awk pandoc
+  sudo apt install pandoc
   ```
 
 - Jalankan berkas `mkepub -h` untuk melihat cara menggunakan skrip.
